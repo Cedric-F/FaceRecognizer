@@ -3,6 +3,15 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+FaceRecognizer/data/archives
+FaceRecognizer/data/Models/Source/1/*
+FaceRecognizer/data/Models/Source/2/*
+FaceRecognizer/data/Models/Source/3/*
+FaceRecognizer/data/Models/Source/4/*
+FaceRecognizer/data/Models/Dest/*
+FaceRecognizer/data/Photos/*
+FaceRecognizer/data/*.yml
+
 # User-specific files
 *.rsuser
 *.suo
